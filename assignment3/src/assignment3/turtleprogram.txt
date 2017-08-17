@@ -1,0 +1,10 @@
+move 50
+turn 90
+move 20
+pen up
+move 20
+turn -90
+move 20
+pen down
+move 20
+
